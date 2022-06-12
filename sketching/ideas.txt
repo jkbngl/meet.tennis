@@ -1,0 +1,19 @@
+there are users
+
+users can be in 0 - n clubs
+users in clubs can have different roles, they can manage
+	- other users roles
+	- courts
+some roles are:
+	- pending approve (requested but is not confirmed)
+	- user (approved, can request courts)
+	- admin (can manage courts)
+	- superadmin (can manage other users)
+
+there are courts
+1 court does always have to be in 1 club
+
+courts have schedules
+in which they are generally open
+and in which they are available to book
+
